@@ -47,7 +47,9 @@ print(soma_2) # 91
 
 IMPORTANTE:
 Esse número pode ser informado através de qualquer entrada de sua preferência ou pode ser previamente definido no código;
+
 [Pergunta 2: ](https://github.com/MurilodioPy/desafio/blob/main/pergunta_2.py)
+
 ````
 def verifica_fibonacci(n):
   x = 0
